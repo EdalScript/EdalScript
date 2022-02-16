@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I’m Edgar!</h1>
 <h3 align="center"> I'm a Frontend Developer based in Europe</h2>
+<br/>
 
-- 👀 I’m constantly thriving towards continuous learning & experimentation. 
-- ⚡ I'm a go-getter
-- 🌱 I’m currently learning Node and React Native
-- :triangular_flag_on_post: Fun fact: I like pigeons.
+- :rocket: I’m constantly thriving towards continuous learning & experimentation.
+- ⚡ Go-getter
+- 🌱  MERN stack enthusiast
+- :triangular_flag_on_post: Hobbies: Martial arts, chess & drums
 
 <h4>Languages and Tools:</h4>
 
