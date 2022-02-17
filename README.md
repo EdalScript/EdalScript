@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I’m Edgar!</h1>
 <h3 align="center"> I'm a Frontend Developer based in Europe</h2>
 <br/>
+<h4> A bit about me: </h4>
 
-- :rocket: I’m constantly thriving towards continuous learning & experimentation.
+- :rocket: I’m constantly thriving towards continuous learning & experimentation
 - ⚡ Go-getter
 - 🌱  MERN stack enthusiast
-- :triangular_flag_on_post: Hobbies: Martial arts, chess & drums
+- :triangular_flag_on_post: Hobbies: Martial arts, chess & blogging
 
 <h4>Languages and Tools:</h4>
 
@@ -20,3 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='40' height='40' alt="AWS" style="background-color: #fff;"> 
   <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width='40' height='40' alt="Postman"> 
 </p>
+
+<h4> Let's connect! </h4>
+<img href="https://linkedin.com/in/edalscript" rel="nofollow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width='35' height='35' alt="Edalscript-LinkedIn"> 
