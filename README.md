@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m Edgar!</h1>
-<h3 align="center"> I'm a Frontend Developer based in Europe</h3>
+<h3 align="center"> I'm a Jr. Frontend Developer based in Europe</h3>
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 With a focus on JavaScript, React and Node, I build, deploy and maintain Fullstack applications for both my employer and for fun! <br/>
+- 💻 With a focus on JavaScript, React and Node, I build, deploy and maintain Full Stack applications for both my employer and myself just for fun! <br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
