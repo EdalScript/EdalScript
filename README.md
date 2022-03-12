@@ -3,11 +3,12 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 With a focus on JavaScript, React and Node, I build, deploy and maintain Full Stack applications for both my employer and myself just for fun! <br/>
+- 💻 With a focus on JavaScript and React, I build, deploy and maintain Full Stack applications for both my employer and myself just for fun! <br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
-- :triangular_flag_on_post: Hobbies: Martial arts, chess & blogging
+- :triangular_flag_on_post: Hobbies: Martial arts, chess & blogging<br/>
+- 📈 Every day is a good day to learn!
 
 <h4>Languages and Tools:</h4>
 
