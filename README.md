@@ -3,7 +3,7 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 With a focus on JavaScript and React, I build, deploy and maintain Full Stack applications for both my employer and myself just for fun! <br/>
+- 💻 Currently working on my fundamentals <br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
