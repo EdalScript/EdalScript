@@ -3,7 +3,7 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 Currently working on my fundamentals <br/>
+- 💻 Currently working on my fundamentals and problem solving skills <br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
