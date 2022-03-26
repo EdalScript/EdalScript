@@ -7,7 +7,7 @@
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
-- :triangular_flag_on_post: Hobbies: Martial arts & chess &<br/>
+- :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
 - 📈 Every day is a good day to learn!
 
 <h4>Languages and Tools:</h4>
