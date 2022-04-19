@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Edgar!</h1>
-<h3 align="center"> I'm a Jr. Frontend Developer based in Europe</h3>
+<h3 align="center"> I'm a Frontend Developer</h3>
 
 <br/>
 <h4> A bit about me: </h4>
