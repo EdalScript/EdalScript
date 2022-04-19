@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I’m Edgar!</h1>
-<h3 align="center"> I'm a Frontend Developer</h3>
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 Currently working on my fundamentals and problem solving skills <br/>
+- 💻 Frontend Developer <br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
