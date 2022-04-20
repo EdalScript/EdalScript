@@ -23,4 +23,4 @@
 </p>
 
 <h4> Let's connect! </h4>
-<img href="https://linkedin.com/in/edalscript" rel="nofollow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width='35' height='35' alt="Edalscript-LinkedIn"> 
+<a href="https://linkedin.com/in/edalscript" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width='35' height='35' alt="Edalscript-LinkedIn"></a>
