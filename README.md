@@ -2,11 +2,12 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 Frontend Developer <br/>
+- 💻 Frontend Developer based in Europe (at the moment)<br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
 - :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
+- ✈️ I can relocate anywhere it's needed
 
 <h4>Languages and Tools:</h4>
 
