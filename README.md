@@ -2,7 +2,7 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 💻 Frontend Developer based in Europe (at the moment)<br/>
+- 💻 Frontend Developer<br/>
 - :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
