@@ -7,7 +7,7 @@
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
 - :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
-- ✈️ I can relocate anywhere it's needed
+- ✈️ Open to relocation
 
 <h4>Languages and Tools:</h4>
 
