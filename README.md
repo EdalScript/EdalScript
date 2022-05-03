@@ -3,7 +3,7 @@
 <br/>
 <h4> A bit about me: </h4>
 - 💻 Frontend Developer<br/>
-- :rocket: I’m constantly thriving towards continuous learning & experimentation<br/>
+- :rocket: Constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - 🌱  MERN stack enthusiast<br/>
 - :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
