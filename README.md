@@ -6,7 +6,6 @@
 - :rocket: Constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter<br/>
 - :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
-- ✈️ Open to relocation
 
 <h4>Languages and Tools:</h4>
 
