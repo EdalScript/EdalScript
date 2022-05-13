@@ -4,7 +4,7 @@
 <h4> A bit about me: </h4>
 - 💻 Frontend Developer<br/>
 - :rocket: Constantly thriving towards continuous learning & experimentation<br/>
-- ⚡ Go-getter<br/>
+- ⚡ Go-getter and highly motivated<br/>
 - :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
 
 <h4>Languages and Tools:</h4>
