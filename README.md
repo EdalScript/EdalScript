@@ -2,7 +2,7 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 🏠 Based in Colombia at the moment<br/>
+- 🏠 Based in Colombia<br/>
 - 💻 Frontend Developer<br/>
 - :rocket: Constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter and highly motivated<br/>
