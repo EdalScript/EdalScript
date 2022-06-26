@@ -3,10 +3,10 @@
 <br/>
 <h4> A bit about me: </h4>
 - 🏠 Based in Colombia<br/>
-- 💻 Frontend Developer<br/>
+- 💻 I currently work as a React Developer<br/>
 - :rocket: Constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter and highly motivated<br/>
-- :triangular_flag_on_post: Hobbies: Martial arts & chess<br/>
+- :triangular_flag_on_post: Interests: Web, mobile and cloud development<br/>
 
 <h4>Languages and Tools:</h4>
 
