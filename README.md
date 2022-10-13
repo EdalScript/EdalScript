@@ -3,7 +3,7 @@
 <br/>
 <h4> A bit about me: </h4>
 - 🏠 Based in Colombia<br/>
-- 💻 I currently work as a React Developer<br/>
+- 💻 I currently work as a React Developer on a different github account for Unosquare <br/>
 - :rocket: Constantly thriving towards continuous learning & experimentation<br/>
 - ⚡ Go-getter and highly motivated<br/>
 - :triangular_flag_on_post: Interests: Web, mobile and cloud development<br/>
