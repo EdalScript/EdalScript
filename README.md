@@ -2,11 +2,10 @@
 
 <br/>
 <h4> A bit about me: </h4>
-- 🏠 Based in Colombia<br/>
-- 💻 I currently work as a React Developer on a different github account for Unosquare <br/>
-- :rocket: Constantly thriving towards continuous learning & experimentation<br/>
-- ⚡ Go-getter and highly motivated<br/>
-- :triangular_flag_on_post: Interests: Web, mobile and cloud development<br/>
+- 🏠 Based in Colombia, Spain or even in Macedonia if necessary. Timezone differences? No problem, I can move around. <br/>
+- 💻 I currently work as a React + React Native Developer on a different github account. <br/>
+- :rocket: I've been 4 years doing this and I'm slowly starting to understand why people want a sheep farm instead <br/>
+- :triangular_flag_on_post: Interests: Frontend and mobile mostly. But at times I feel like how nice would it be to just go and create the endpoint myself <br/>
 
 <h4>Languages and Tools:</h4>
 
@@ -21,5 +20,5 @@
 </p>
 
 <h4> Let's connect! </h4>
-<h4> Edit in 2025: Hi there! I completely forgot I have this personal github I abandoned the moment I started working with my current employer. It's nostalgic (and a bit cringy) to see my first projects how basic and in desperate need for a refactor they are. I'll update this github and everything I have here as soon as I can. </h4>
+<h4> Edit in 2025: I completely forgot I have this personal github I abandoned the moment I started working with my current employer. It's nostalgic (and a bit cringy) to see my first projects how basic and in desperate need for a refactor they are. I'll update this github and everything I have here as soon as I can... I mean, eventually. Yes... some day.  </h4>
 <a href="https://linkedin.com/in/edalscript" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width='35' height='35' alt="Edalscript-LinkedIn"></a>
