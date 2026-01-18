@@ -4,8 +4,6 @@
 <h4> A bit about me: </h4>
 - 🏠 Based in Colombia, Spain or even in Macedonia if necessary. Timezone differences? No problem, I can move around. <br/>
 - 💻 I currently work as a React + React Native Developer on a different github account. <br/>
-- :rocket: I've been 4 years doing this and I'm slowly starting to understand why people want a sheep farm instead <br/>
-- :triangular_flag_on_post: Interests: Frontend and mobile mostly. But at times I feel like how nice would it be to just go and create the endpoint myself <br/>
 
 <h4>Languages and Tools:</h4>
 
